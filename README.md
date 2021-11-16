@@ -3,7 +3,7 @@ A Dark theme for wakfu using the methods suggested on the devblog from version 1
 
 ** Instructions**
 
-Download the themes folder and paste it inside your
+Download the theme folder and paste it inside your
 
 _AppData\Roaming\zaap\wakfu-beta_ - Folder
 
