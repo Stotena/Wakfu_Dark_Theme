@@ -17,3 +17,8 @@ How to make changes to the theme? You will have to refer to this devblog and dev
  https://www.wakfu.com/en/forum/332-development/241635-ui-modding-tutorial
  
  Link to the post about the theme : https://www.wakfu.com/en/forum/332-development/241667-theme-wakfu-dark-theme-wip
+
+Some preview Images
+
+![Preview 1](https://i.imgur.com/VMsJAW8.png)
+![Preview 2](https://i.imgur.com/Qfptpiw.png)
