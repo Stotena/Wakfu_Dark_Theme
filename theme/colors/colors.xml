@@ -6,6 +6,7 @@
     <color id="loginGradientColor" color="#283b52"/>
     <color id="defaultDarkGreyColor" color="#E0FEE4"/>
     <color id="defaultBlackColor" color="#d8e2e3"/>
+    <color id="defaultDarkColor" color="#6575f0" />
     <color id="MPColor" color="#cbea7d"/>
     <color id="APColor" color="#00e1ff"/>
 
