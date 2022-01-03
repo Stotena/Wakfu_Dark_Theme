@@ -6,8 +6,12 @@
     <color id="loginGradientColor" color="#283b52"/>
     <color id="defaultDarkGreyColor" color="#E0FEE4"/>
     <color id="defaultBlackColor" color="#d8e2e3"/>
-    <color id="defaultDarkColor" color="#6575f0" />
+    <color id="defaultDarkColor" color="##d8e2e3" />
     <color id="MPColor" color="#cbea7d"/>
     <color id="APColor" color="#00e1ff"/>
-
+    <color id="textDarkTextEditorColor" color="#E0F5F5"/>
+    <color id="mecanicLightBlueColor" color="#E0F5F5"/>
+    <color id="mecanicDarkBlueColor" color="#E0F5F5"/>
+    <color id="xpColor" color="#937fc9"/>
+    <color id="xpColorCompanion" color="#8a72b8"/>
 </colors>
