@@ -10,8 +10,11 @@ Added : -
 - Main button got fixed. Added a shiny orb aura to that.
 - Some other things here and there.
 
+- Project files (PSD) files are now included, Now you can go through and see my messy work on this (sorry)
+Feel free to use it to work upon/ edit/ fix or make a different theme all together. It's out there. 
+Have fun! ^^
 
-- To Do -
+**- To Do -**
 - Find and fix some of the text input bars.
 - Other parts which might be missing
 - The player passport and clan member intro book/page is still the same.
@@ -37,3 +40,9 @@ Some preview Images
 ![Preview 1](https://i.imgur.com/VMsJAW8.png)
 ![Preview 2](https://i.imgur.com/CkFJdXb.png)
 ![Preview 3](https://i.imgur.com/8SAeIJK.png)
+
+
+Credits & Attribution 
+- This project contains resources from Flaticon.com
+- WAKFU MMORPG : © 2022 Ankama Studio. All rights reserved
+- The project is a derrivative work, No infringement on copyright or any violations of any sort is involved.
