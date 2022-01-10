@@ -2,16 +2,20 @@
     <color id="loadingWheelColor" color="#b3c7c9"/>
     <color id="windowBackgroundColor" color="#283b52"/>
     <color id="mecanicBlueColor" color="#E0F5F5"/>
-    <color id="defaultLightColor" color="#CCCCFF"/>
+    <color id="defaultLightColor" color="#AED6F1"/>
     <color id="loginGradientColor" color="#283b52"/>
     <color id="defaultDarkGreyColor" color="#E0FEE4"/>
     <color id="defaultBlackColor" color="#d8e2e3"/>
-    <color id="defaultDarkColor" color="##d8e2e3" />
+    <color id="defaultDarkColor" color="##E0F5F5" />
     <color id="MPColor" color="#cbea7d"/>
     <color id="APColor" color="#00e1ff"/>
     <color id="textDarkTextEditorColor" color="#E0F5F5"/>
     <color id="mecanicLightBlueColor" color="#E0F5F5"/>
     <color id="mecanicDarkBlueColor" color="#E0F5F5"/>
-    <color id="xpColor" color="#937fc9"/>
-    <color id="xpColorCompanion" color="#8a72b8"/>
+    <color id="xpColor" color="#3D1173"/>
+    <color id="xpColorCompanion" color="#3D1173"/>
+    <color id="evenCellColor" color="#2e3440"/>
+    <color id="oddCellColor" color="#2e3435"/>
+    <color id="popupInformationColor" color="#2e3440"/>
+    <color id="passportTitleColor" color="#2e3440"/>
 </colors>
