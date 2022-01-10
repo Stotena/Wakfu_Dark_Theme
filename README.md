@@ -9,17 +9,22 @@ Added : -
 - New Icons / Some are colorful other ones are white to make them visible
 - Main button got fixed. Added a shiny orb aura to that.
 - Some other things here and there.
+- Pet Food Icon - Fixed
+- Spell Display, Market board table - Color corrected.
+- Item Display window - Now on the theme format.
 
-- Project files (PSD) files are now included, Now you can go through and see my messy work on this (sorry)
+- Project files (PSD) files are now included ![here](https://github.com/Stotena/Wakfu_DarkTheme_Files), 
+Now you can go through and see my messy work on this (sorry)
 Feel free to use it to work upon/ edit/ fix or make a different theme all together. It's out there. 
 Have fun! ^^
 
 **- To Do -**
 - Find and fix some of the text input bars.
-- Other parts which might be missing
+- Fix the Tabs within the spells and equipment window.
+- Fix parts which might be missing
 - The player passport and clan member intro book/page is still the same.
 - Parts which sticks out of the main windows (Market Sell/Buy Stand/ Guid window items
--  Further font color fixing to make it more coherent. 
+- Further font color fixing to make it more coherent. 
 
 ** Instructions**
 
@@ -31,9 +36,12 @@ _AppData\Roaming\zaap\wakfu - Folder
 And it should work out quite well.
 
 How to make changes to the theme? You will have to refer to this devblog and dev section post about how to do just that.
- https://www.wakfu.com/en/forum/332-development/241635-ui-modding-tutorial
  
- Link to the post about the theme : https://www.wakfu.com/en/forum/332-development/241667-theme-wakfu-dark-theme-wip
+https://www.wakfu.com/en/forum/332-development/241635-ui-modding-tutorial
+ 
+ Link to the wakfu forum post about the theme :
+
+ https://www.wakfu.com/en/forum/332-development/241667-theme-wakfu-dark-theme-wip
 
 Some preview Images
 
