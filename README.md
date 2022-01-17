@@ -15,7 +15,12 @@ with icons and window coloring to a larged extend.
 - Fixed text background for chat interaction.
 
 **Fixed :- **
-- Find and fix some of the text input bars. 
+- Search bars/ For Emotes / Market
+![Market](https://i.imgur.com/z1AKGB5.png) 
+![Emotes](https://i.imgur.com/DJIUs3A.png)
+
+- Fixed Hero window - Level Display
+![Hero](https://i.imgur.com/etjgjjZ.png)
 
 - Project files (PSD) files are now included ![here](https://github.com/Stotena/Wakfu_DarkTheme_Files), 
 Now you can go through and see my messy work on this (sorry)
