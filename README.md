@@ -4,7 +4,7 @@ A Dark theme for wakfu using the methods suggested on the devblog from version 1
 2022 Update Rolled out
 with icons and window coloring to a larged extend.
 
-Added : -
+**Added : -**
 - New window colors
 - New Icons / Some are colorful other ones are white to make them visible
 - Main button got fixed. Added a shiny orb aura to that.
@@ -12,6 +12,10 @@ Added : -
 - Pet Food Icon - Fixed
 - Spell Display, Market board table - Color corrected.
 - Item Display window - Now on the theme format.
+- Fixed text background for chat interaction.
+
+**Fixed :- **
+- Find and fix some of the text input bars. 
 
 - Project files (PSD) files are now included ![here](https://github.com/Stotena/Wakfu_DarkTheme_Files), 
 Now you can go through and see my messy work on this (sorry)
@@ -19,7 +23,7 @@ Feel free to use it to work upon/ edit/ fix or make a different theme all togeth
 Have fun! ^^
 
 **- To Do -**
-- Find and fix some of the text input bars.
+
 - Fix the Tabs within the spells and equipment window.
 - Fix parts which might be missing
 - The player passport and clan member intro book/page is still the same.
