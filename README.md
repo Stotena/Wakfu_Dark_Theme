@@ -20,6 +20,8 @@ with icons and window coloring to a larged extend.
 ![Emotes](https://i.imgur.com/DJIUs3A.png)
 
 - Fixed Hero window - Level Display
+
+
 ![Hero](https://i.imgur.com/etjgjjZ.png)
 
 - Project files (PSD) files are now included ![here](https://github.com/Stotena/Wakfu_DarkTheme_Files), 
