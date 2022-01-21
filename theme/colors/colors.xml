@@ -17,7 +17,7 @@
     <color id="evenCellColor" color="#2e3440"/>
     <color id="oddCellColor" color="#2e3435"/>
     <color id="popupInformationColor" color="#2e3440"/>
-    <color id="passportTitleColor" color="#2e3440"/>
+    <color id="passportTitleColor" color="#e0eaf5"/>
 
     <color id="textDarkTextEditorColor" color="#1C3A59"/>
     <color id="defaultDarkGreyColor" color="#22405D1A"/>
