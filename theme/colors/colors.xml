@@ -1,4 +1,5 @@
 <colors>
+    
     <color id="loadingWheelColor" color="#b3c7c9"/>
     <color id="windowBackgroundColor" color="#283b52"/>
     <color id="mecanicBlueColor" color="#E0F5F5"/>
@@ -21,4 +22,8 @@
 
     <color id="textDarkTextEditorColor" color="#1C3A59"/>
     <color id="defaultDarkGreyColor" color="#22405D1A"/>
+    
+    <color id="fightReportOddCellColor" color="2e3440"/>
+    <color id="fightReportEvenCellColor" color="2e3435"/>
+    
 </colors>
