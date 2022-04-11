@@ -29,4 +29,5 @@
     
     <!-- Book Background Color -->
     <color id="backgroundBookColor" color="#2e3435"/>  
+    <color id="scrollTitleBackgroundColor" color="#0f1a1a"/>
 </colors>
