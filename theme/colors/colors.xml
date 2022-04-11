@@ -28,5 +28,5 @@
     <color id="fightReportEvenCellColor" color="#2e3435"/>
     
     <!-- Book Background Color -->
-    <color id="backgroundBookColor", color="#2e3435"/>  
+    <color id="backgroundBookColor" color="#2e3435"/>  
 </colors>
