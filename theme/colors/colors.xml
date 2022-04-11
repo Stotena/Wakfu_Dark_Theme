@@ -7,7 +7,7 @@
     <color id="loginGradientColor" color="#283b52"/>
     
     <color id="defaultBlackColor" color="#d8e2e3"/>
-    <color id="defaultDarkColor" color="##E0F5F5" />
+    <color id="defaultDarkColor" color="#E0F5F5" />
     <color id="MPColor" color="#cbea7d"/>
     <color id="APColor" color="#00e1ff"/>
     
@@ -23,7 +23,10 @@
     <color id="textDarkTextEditorColor" color="#1C3A59"/>
     <color id="defaultDarkGreyColor" color="#22405D1A"/>
     
+    <!-- End of fight screen color -->
     <color id="fightReportOddCellColor" color="#2e3440"/>
     <color id="fightReportEvenCellColor" color="#2e3435"/>
     
+    <!-- Book Background Color -->
+    <color id="backgroundBookColor", color="#2e3435"/>  
 </colors>
