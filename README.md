@@ -21,6 +21,16 @@ with icons and window coloring to a larged extend.
 
 - Fixed Hero window - Level Display
 
+**Updated for 1.76 : -**
+
+- Missing icon for inventory (new)
+- Character icon tabs left of the spells and equipment window.
+- Gear selector button
+- Subtle shadows added to icons in general.
+- Player passport and clan member intro book (fixed)
+
+![1.76(https://i.imgur.com/Jd9B3Xp.png)
+
 
 ![Hero](https://i.imgur.com/etjgjjZ.png)
 
@@ -31,9 +41,7 @@ Have fun! ^^
 
 **- To Do -**
 
-- Fix the Tabs within the spells and equipment window.
 - Fix parts which might be missing
-- The player passport and clan member intro book/page is still the same.
 - Parts which sticks out of the main windows (Market Sell/Buy Stand/ Guid window items
 - Further font color fixing to make it more coherent. 
 
@@ -54,12 +62,13 @@ https://www.wakfu.com/en/forum/332-development/241635-ui-modding-tutorial
 
  https://www.wakfu.com/en/forum/332-development/241667-theme-wakfu-dark-theme-wip
 
-Some preview Images
+Some preview Images (Old) have made more changes to it now
 
 ![Preview 1](https://i.imgur.com/VMsJAW8.png)
-![Preview 2](https://i.imgur.com/CkFJdXb.png)
+![Preview 2](https://i.imgur.com/wa1gdwd.png)
 ![Preview 3](https://i.imgur.com/8SAeIJK.png)
 
+Contact : Stotena#1945 | Discord
 
 Credits & Attribution 
 - This project contains resources from Flaticon.com
