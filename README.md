@@ -29,7 +29,13 @@ with icons and window coloring to a larged extend.
 - Subtle shadows added to icons in general.
 - Player passport and clan member intro book (fixed)
 
-![1.76(https://i.imgur.com/Jd9B3Xp.png)
+[Thanks to jeremy-Blat#5852]
+- Fixed Dungeon Stasis selector
+- Fixed Dungeon ranking crowns 
+
+![1.76](https://i.imgur.com/Jd9B3Xp.png)
+![1.76.1](https://i.imgur.com/r4v2vqF.png)
+![Dungeon_Crown](https://i.imgur.com/pGydihh.png)
 
 
 ![Hero](https://i.imgur.com/etjgjjZ.png)
